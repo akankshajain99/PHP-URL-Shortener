@@ -1,2 +1,2 @@
 # PHP-URL-Shortener
-Simple and Basic PHP Project.
+Convert long url to short url.
